@@ -1,0 +1,4887 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "slug": "soft-denim-jacket-1",
+            "title": "Soft Denim Jacket",
+            "brand": "Atelier 9",
+            "description": "Soft Denim Jacket from Women. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 81.72,
+            "compareAtPrice": 125.62,
+            "images": [
+                "https://images.unsplash.com/photo-1551803091-e20673f15770?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "women",
+            "colors": [
+                "Sky",
+                "Ivory",
+                "Pink",
+                "Crimson",
+                "Sand"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "rating": 4.7,
+            "reviewCount": 1085,
+            "stock": 17,
+            "badges": [
+                "Sale",
+                "New",
+                "Trending"
+            ],
+            "tags": [
+                "women",
+                "soft",
+                "denim jacket"
+            ],
+            "reviews": [
+                {
+                    "id": "r-1-0",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-14T20:56:27.326Z"
+                },
+                {
+                    "id": "r-1-1",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-04T20:56:27.326Z"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "slug": "wild-crop-top-2",
+            "title": "Wild Crop Top",
+            "brand": "Atelier 9",
+            "description": "Wild Crop Top from Women. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 19.92,
+            "images": [
+                "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1577900232427-18219b9166a0?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "women",
+            "colors": [
+                "Black",
+                "Cocoa",
+                "Sky"
+            ],
+            "sizes": [
+                "XS",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "rating": 3.9,
+            "reviewCount": 1012,
+            "stock": 48,
+            "badges": [],
+            "tags": [
+                "women",
+                "wild",
+                "crop top"
+            ],
+            "reviews": [
+                {
+                    "id": "r-2-0",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-24T20:56:27.326Z"
+                },
+                {
+                    "id": "r-2-1",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-02-28T20:56:27.326Z"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "slug": "cloud-satin-blouse-3",
+            "title": "Cloud Satin Blouse",
+            "brand": "ZEN",
+            "description": "Cloud Satin Blouse from Women. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 55.54,
+            "compareAtPrice": 72.96,
+            "images": [
+                "https://images.unsplash.com/photo-1518049362265-d5b2a6467637?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "women",
+            "colors": [
+                "Lilac",
+                "Crimson",
+                "Ivory",
+                "Black"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "rating": 4.1,
+            "reviewCount": 433,
+            "stock": 48,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "women",
+                "cloud",
+                "satin blouse"
+            ],
+            "reviews": [
+                {
+                    "id": "r-3-0",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-19T20:56:27.327Z"
+                },
+                {
+                    "id": "r-3-1",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-30T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "slug": "bloom-crop-top-4",
+            "title": "Bloom Crop Top",
+            "brand": "Lumen",
+            "description": "Bloom Crop Top from Women. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 11.83,
+            "compareAtPrice": 17.68,
+            "images": [
+                "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "women",
+            "colors": [
+                "Lilac",
+                "Sky",
+                "Black",
+                "Sand",
+                "Crimson"
+            ],
+            "sizes": [
+                "XS",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "rating": 4.3,
+            "reviewCount": 1256,
+            "stock": 28,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "women",
+                "bloom",
+                "crop top"
+            ],
+            "reviews": [
+                {
+                    "id": "r-4-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-17T20:56:27.327Z"
+                },
+                {
+                    "id": "r-4-1",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-15T20:56:27.327Z"
+                },
+                {
+                    "id": "r-4-2",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-04T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "slug": "wild-bodysuit-5",
+            "title": "Wild Bodysuit",
+            "brand": "FERN",
+            "description": "Wild Bodysuit from Women. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 74.81,
+            "images": [
+                "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1551803091-e20673f15770?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "women",
+            "colors": [
+                "Sky",
+                "Pink",
+                "Lilac"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "rating": 3.8,
+            "reviewCount": 466,
+            "stock": 38,
+            "badges": [
+                "New"
+            ],
+            "tags": [
+                "women",
+                "wild",
+                "bodysuit"
+            ],
+            "reviews": [
+                {
+                    "id": "r-5-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-03T20:56:27.327Z"
+                },
+                {
+                    "id": "r-5-1",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-10T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "slug": "soft-maxi-dress-6",
+            "title": "Soft Maxi Dress",
+            "brand": "Lumen",
+            "description": "Soft Maxi Dress from Women. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 30.34,
+            "compareAtPrice": 41.28,
+            "images": [
+                "https://images.unsplash.com/photo-1577900232427-18219b9166a0?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1485518882345-15568b007407?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "women",
+            "colors": [
+                "Lilac",
+                "Sky",
+                "Ivory",
+                "Pink"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "rating": 3.6,
+            "reviewCount": 264,
+            "stock": 29,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "women",
+                "soft",
+                "maxi dress"
+            ],
+            "reviews": [
+                {
+                    "id": "r-6-0",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-24T20:56:27.327Z"
+                },
+                {
+                    "id": "r-6-1",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-05T20:56:27.327Z"
+                },
+                {
+                    "id": "r-6-2",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-13T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "slug": "modern-satin-blouse-7",
+            "title": "Modern Satin Blouse",
+            "brand": "ZEN",
+            "description": "Modern Satin Blouse from Women. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 23.76,
+            "compareAtPrice": 40.39,
+            "images": [
+                "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1577900232427-18219b9166a0?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "women",
+            "colors": [
+                "Ivory",
+                "Crimson",
+                "Cocoa"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "XL",
+                "XXL"
+            ],
+            "rating": 4,
+            "reviewCount": 529,
+            "stock": 46,
+            "badges": [
+                "Sale",
+                "New"
+            ],
+            "tags": [
+                "women",
+                "modern",
+                "satin blouse"
+            ],
+            "reviews": [
+                {
+                    "id": "r-7-0",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-10T20:56:27.327Z"
+                },
+                {
+                    "id": "r-7-1",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-11T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "slug": "neon-mini-dress-8",
+            "title": "Neon Mini Dress",
+            "brand": "Maison",
+            "description": "Neon Mini Dress from Women. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 35.69,
+            "compareAtPrice": 45.27,
+            "images": [
+                "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "women",
+            "colors": [
+                "Olive",
+                "Crimson",
+                "Black"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "rating": 4.1,
+            "reviewCount": 265,
+            "stock": 50,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "women",
+                "neon",
+                "mini dress"
+            ],
+            "reviews": [
+                {
+                    "id": "r-8-0",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-03T20:56:27.327Z"
+                },
+                {
+                    "id": "r-8-1",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-13T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "slug": "bold-knit-cardigan-9",
+            "title": "Bold Knit Cardigan",
+            "brand": "ZEN",
+            "description": "Bold Knit Cardigan from Women. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 17.66,
+            "images": [
+                "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1551803091-e20673f15770?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "women",
+            "colors": [
+                "Lilac",
+                "Sand",
+                "Sky"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "rating": 4,
+            "reviewCount": 166,
+            "stock": 4,
+            "badges": [
+                "Trending",
+                "Low Stock"
+            ],
+            "tags": [
+                "women",
+                "bold",
+                "knit cardigan"
+            ],
+            "reviews": [
+                {
+                    "id": "r-9-0",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-27T20:56:27.327Z"
+                },
+                {
+                    "id": "r-9-1",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-21T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "slug": "bloom-denim-jacket-10",
+            "title": "Bloom Denim Jacket",
+            "brand": "Lumen",
+            "description": "Bloom Denim Jacket from Women. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 38.53,
+            "images": [
+                "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1572804013427-4d7ca7268217?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "women",
+            "colors": [
+                "Sky",
+                "Olive",
+                "Cocoa"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "rating": 4.2,
+            "reviewCount": 473,
+            "stock": 48,
+            "badges": [],
+            "tags": [
+                "women",
+                "bloom",
+                "denim jacket"
+            ],
+            "reviews": [
+                {
+                    "id": "r-10-0",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-18T20:56:27.327Z"
+                },
+                {
+                    "id": "r-10-1",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-08T20:56:27.327Z"
+                },
+                {
+                    "id": "r-10-2",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-21T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "slug": "bloom-denim-jacket-11",
+            "title": "Bloom Denim Jacket",
+            "brand": "Olive & Oak",
+            "description": "Bloom Denim Jacket from Women. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 10.09,
+            "images": [
+                "https://images.unsplash.com/photo-1572804013427-4d7ca7268217?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1577900232427-18219b9166a0?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "women",
+            "colors": [
+                "Sky",
+                "Lilac",
+                "Pink"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "rating": 4.2,
+            "reviewCount": 1399,
+            "stock": 12,
+            "badges": [
+                "New"
+            ],
+            "tags": [
+                "women",
+                "bloom",
+                "denim jacket"
+            ],
+            "reviews": [
+                {
+                    "id": "r-11-0",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-04T20:56:27.327Z"
+                },
+                {
+                    "id": "r-11-1",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-19T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "slug": "neon-knit-cardigan-12",
+            "title": "Neon Knit Cardigan",
+            "brand": "Maison",
+            "description": "Neon Knit Cardigan from Women. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 21.84,
+            "compareAtPrice": 35.9,
+            "images": [
+                "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1577900232427-18219b9166a0?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1551803091-e20673f15770?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "women",
+            "colors": [
+                "Sand",
+                "Pink",
+                "Sage",
+                "Lilac",
+                "Crimson"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "rating": 4.3,
+            "reviewCount": 518,
+            "stock": 37,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "women",
+                "neon",
+                "knit cardigan"
+            ],
+            "reviews": [
+                {
+                    "id": "r-12-0",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-23T20:56:27.327Z"
+                },
+                {
+                    "id": "r-12-1",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-07T20:56:27.327Z"
+                },
+                {
+                    "id": "r-12-2",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-16T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "slug": "mystic-denim-jacket-13",
+            "title": "Mystic Denim Jacket",
+            "brand": "Lumen",
+            "description": "Mystic Denim Jacket from Women. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 29.02,
+            "compareAtPrice": 43.39,
+            "images": [
+                "https://images.unsplash.com/photo-1577900232427-18219b9166a0?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1518049362265-d5b2a6467637?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "women",
+            "colors": [
+                "Pink",
+                "Black",
+                "Lilac",
+                "Ivory",
+                "Sand"
+            ],
+            "sizes": [
+                "XS",
+                "M",
+                "L",
+                "XL"
+            ],
+            "rating": 4.1,
+            "reviewCount": 242,
+            "stock": 43,
+            "badges": [
+                "Sale",
+                "New"
+            ],
+            "tags": [
+                "women",
+                "mystic",
+                "denim jacket"
+            ],
+            "reviews": [
+                {
+                    "id": "r-13-0",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-03T20:56:27.327Z"
+                },
+                {
+                    "id": "r-13-1",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-02-27T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "slug": "mystic-mini-dress-14",
+            "title": "Mystic Mini Dress",
+            "brand": "FERN",
+            "description": "Mystic Mini Dress from Women. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 32.46,
+            "images": [
+                "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1518049362265-d5b2a6467637?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "women",
+            "colors": [
+                "Sky",
+                "Olive",
+                "Cocoa"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "rating": 4.1,
+            "reviewCount": 1120,
+            "stock": 47,
+            "badges": [],
+            "tags": [
+                "women",
+                "mystic",
+                "mini dress"
+            ],
+            "reviews": [
+                {
+                    "id": "r-14-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-12T20:56:27.327Z"
+                },
+                {
+                    "id": "r-14-1",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-12T20:56:27.327Z"
+                },
+                {
+                    "id": "r-14-2",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-13T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "slug": "glow-oversized-tee-15",
+            "title": "Glow Oversized Tee",
+            "brand": "FERN",
+            "description": "Glow Oversized Tee from Men. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 49.58,
+            "compareAtPrice": 83.24,
+            "images": [
+                "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1488161628813-04466f872be2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1554941829-202a0b2403b8?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "men",
+            "colors": [
+                "Olive",
+                "Cocoa",
+                "Sand",
+                "Sage"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "rating": 4.7,
+            "reviewCount": 698,
+            "stock": 32,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "men",
+                "glow",
+                "oversized tee"
+            ],
+            "reviews": [
+                {
+                    "id": "r-15-0",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-06T20:56:27.327Z"
+                },
+                {
+                    "id": "r-15-1",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-14T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "slug": "mystic-overshirt-16",
+            "title": "Mystic Overshirt",
+            "brand": "Atelier 9",
+            "description": "Mystic Overshirt from Men. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 65.46,
+            "compareAtPrice": 108.32,
+            "images": [
+                "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1488463722748-cd35bbd3ba26?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1488161628813-04466f872be2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1554941829-202a0b2403b8?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "men",
+            "colors": [
+                "Ivory",
+                "Sky",
+                "Crimson"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "XL",
+                "XXL"
+            ],
+            "rating": 4.6,
+            "reviewCount": 286,
+            "stock": 5,
+            "badges": [
+                "Sale",
+                "Trending",
+                "Low Stock"
+            ],
+            "tags": [
+                "men",
+                "mystic",
+                "overshirt"
+            ],
+            "reviews": [
+                {
+                    "id": "r-16-0",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-03T20:56:27.327Z"
+                },
+                {
+                    "id": "r-16-1",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-02T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "slug": "urban-hoodie-17",
+            "title": "Urban Hoodie",
+            "brand": "GLAM",
+            "description": "Urban Hoodie from Men. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 71.68,
+            "images": [
+                "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1517502884422-41eaead166d4?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1554941829-202a0b2403b8?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "men",
+            "colors": [
+                "Black",
+                "Sky",
+                "Crimson",
+                "Sand",
+                "Lilac"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "XL",
+                "XXL"
+            ],
+            "rating": 4.9,
+            "reviewCount": 227,
+            "stock": 14,
+            "badges": [],
+            "tags": [
+                "men",
+                "urban",
+                "hoodie"
+            ],
+            "reviews": [
+                {
+                    "id": "r-17-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-02T20:56:27.327Z"
+                },
+                {
+                    "id": "r-17-1",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-28T20:56:27.327Z"
+                },
+                {
+                    "id": "r-17-2",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-08T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "slug": "bloom-overshirt-18",
+            "title": "Bloom Overshirt",
+            "brand": "NORTH",
+            "description": "Bloom Overshirt from Men. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 76.21,
+            "images": [
+                "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1503341504253-dff4815485f1?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1517502884422-41eaead166d4?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "men",
+            "colors": [
+                "Olive",
+                "Ivory",
+                "Sky"
+            ],
+            "sizes": [
+                "XS",
+                "M",
+                "L",
+                "XL"
+            ],
+            "rating": 4.9,
+            "reviewCount": 298,
+            "stock": 46,
+            "badges": [
+                "New",
+                "Trending"
+            ],
+            "tags": [
+                "men",
+                "bloom",
+                "overshirt"
+            ],
+            "reviews": [
+                {
+                    "id": "r-18-0",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-22T20:56:27.327Z"
+                },
+                {
+                    "id": "r-18-1",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-22T20:56:27.327Z"
+                },
+                {
+                    "id": "r-18-2",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-12T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "slug": "urban-polo-shirt-19",
+            "title": "Urban Polo Shirt",
+            "brand": "Velora",
+            "description": "Urban Polo Shirt from Men. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 31.38,
+            "images": [
+                "https://images.unsplash.com/photo-1490114538077-0a7f8cb49891?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "men",
+            "colors": [
+                "Ivory",
+                "Sky",
+                "Sage"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "rating": 4.4,
+            "reviewCount": 1424,
+            "stock": 15,
+            "badges": [
+                "Trending"
+            ],
+            "tags": [
+                "men",
+                "urban",
+                "polo shirt"
+            ],
+            "reviews": [
+                {
+                    "id": "r-19-0",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-03T20:56:27.327Z"
+                },
+                {
+                    "id": "r-19-1",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-21T20:56:27.327Z"
+                },
+                {
+                    "id": "r-19-2",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-24T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "20",
+            "slug": "sleek-bomber-jacket-20",
+            "title": "Sleek Bomber Jacket",
+            "brand": "FERN",
+            "description": "Sleek Bomber Jacket from Men. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 46.94,
+            "compareAtPrice": 63.3,
+            "images": [
+                "https://images.unsplash.com/photo-1488161628813-04466f872be2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1490114538077-0a7f8cb49891?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1488463722748-cd35bbd3ba26?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "men",
+            "colors": [
+                "Pink",
+                "Olive",
+                "Sage"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "rating": 4.2,
+            "reviewCount": 655,
+            "stock": 9,
+            "badges": [
+                "Sale",
+                "Trending"
+            ],
+            "tags": [
+                "men",
+                "sleek",
+                "bomber jacket"
+            ],
+            "reviews": [
+                {
+                    "id": "r-20-0",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-30T20:56:27.327Z"
+                },
+                {
+                    "id": "r-20-1",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-18T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "slug": "soft-overshirt-21",
+            "title": "Soft Overshirt",
+            "brand": "Atelier 9",
+            "description": "Soft Overshirt from Men. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 51.38,
+            "compareAtPrice": 76.69,
+            "images": [
+                "https://images.unsplash.com/photo-1517502884422-41eaead166d4?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1490114538077-0a7f8cb49891?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1542327897-4141c7c5c6d2?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "men",
+            "colors": [
+                "Olive",
+                "Black",
+                "Sage",
+                "Sky"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "rating": 4.8,
+            "reviewCount": 1291,
+            "stock": 43,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "men",
+                "soft",
+                "overshirt"
+            ],
+            "reviews": [
+                {
+                    "id": "r-21-0",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-08T20:56:27.327Z"
+                },
+                {
+                    "id": "r-21-1",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-18T20:56:27.327Z"
+                },
+                {
+                    "id": "r-21-2",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-23T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "22",
+            "slug": "soft-polo-shirt-22",
+            "title": "Soft Polo Shirt",
+            "brand": "Atelier 9",
+            "description": "Soft Polo Shirt from Men. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 63.14,
+            "images": [
+                "https://images.unsplash.com/photo-1490114538077-0a7f8cb49891?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1542327897-4141c7c5c6d2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1488463722748-cd35bbd3ba26?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "men",
+            "colors": [
+                "Sky",
+                "Ivory",
+                "Pink",
+                "Crimson",
+                "Sand"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "rating": 3.8,
+            "reviewCount": 352,
+            "stock": 5,
+            "badges": [
+                "Low Stock"
+            ],
+            "tags": [
+                "men",
+                "soft",
+                "polo shirt"
+            ],
+            "reviews": [
+                {
+                    "id": "r-22-0",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-18T20:56:27.327Z"
+                },
+                {
+                    "id": "r-22-1",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-27T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "23",
+            "slug": "cosmic-track-pants-23",
+            "title": "Cosmic Track Pants",
+            "brand": "Lumen",
+            "description": "Cosmic Track Pants from Men. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 70.97,
+            "compareAtPrice": 98.05,
+            "images": [
+                "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1542327897-4141c7c5c6d2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1554941829-202a0b2403b8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1488161628813-04466f872be2?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "men",
+            "colors": [
+                "Sage",
+                "Ivory",
+                "Olive"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "rating": 3.7,
+            "reviewCount": 133,
+            "stock": 50,
+            "badges": [
+                "Sale",
+                "New"
+            ],
+            "tags": [
+                "men",
+                "cosmic",
+                "track pants"
+            ],
+            "reviews": [
+                {
+                    "id": "r-23-0",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-18T20:56:27.327Z"
+                },
+                {
+                    "id": "r-23-1",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-13T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "24",
+            "slug": "glow-linen-shirt-24",
+            "title": "Glow Linen Shirt",
+            "brand": "Atelier 9",
+            "description": "Glow Linen Shirt from Men. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 64.46,
+            "compareAtPrice": 80.5,
+            "images": [
+                "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1554941829-202a0b2403b8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "men",
+            "colors": [
+                "Cocoa",
+                "Sage",
+                "Crimson"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "rating": 4.3,
+            "reviewCount": 61,
+            "stock": 32,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "men",
+                "glow",
+                "linen shirt"
+            ],
+            "reviews": [
+                {
+                    "id": "r-24-0",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-09T20:56:27.327Z"
+                },
+                {
+                    "id": "r-24-1",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-05T20:56:27.327Z"
+                },
+                {
+                    "id": "r-24-2",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-21T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "25",
+            "slug": "urban-henley-25",
+            "title": "Urban Henley",
+            "brand": "GLAM",
+            "description": "Urban Henley from Men. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 8.65,
+            "compareAtPrice": 15.4,
+            "images": [
+                "https://images.unsplash.com/photo-1554941829-202a0b2403b8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "men",
+            "colors": [
+                "Olive",
+                "Lilac",
+                "Cocoa",
+                "Sand",
+                "Black"
+            ],
+            "sizes": [
+                "XS",
+                "M",
+                "XL",
+                "XXL"
+            ],
+            "rating": 4,
+            "reviewCount": 573,
+            "stock": 26,
+            "badges": [
+                "Sale",
+                "New"
+            ],
+            "tags": [
+                "men",
+                "urban",
+                "henley"
+            ],
+            "reviews": [
+                {
+                    "id": "r-25-0",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-20T20:56:27.327Z"
+                },
+                {
+                    "id": "r-25-1",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-01T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "26",
+            "slug": "luxe-bomber-jacket-26",
+            "title": "Luxe Bomber Jacket",
+            "brand": "Maison",
+            "description": "Luxe Bomber Jacket from Men. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 38.95,
+            "compareAtPrice": 48.16,
+            "images": [
+                "https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1542327897-4141c7c5c6d2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "men",
+            "colors": [
+                "Olive",
+                "Pink",
+                "Sky",
+                "Sage"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "XL"
+            ],
+            "rating": 4.6,
+            "reviewCount": 95,
+            "stock": 49,
+            "badges": [
+                "Sale",
+                "New",
+                "Trending"
+            ],
+            "tags": [
+                "men",
+                "luxe",
+                "bomber jacket"
+            ],
+            "reviews": [
+                {
+                    "id": "r-26-0",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-21T20:56:27.327Z"
+                },
+                {
+                    "id": "r-26-1",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-03T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "27",
+            "slug": "bold-cargo-pants-27",
+            "title": "Bold Cargo Pants",
+            "brand": "Lumen",
+            "description": "Bold Cargo Pants from Men. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 42.64,
+            "compareAtPrice": 64.22,
+            "images": [
+                "https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1490114538077-0a7f8cb49891?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "men",
+            "colors": [
+                "Olive",
+                "Sky",
+                "Ivory"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "rating": 3.8,
+            "reviewCount": 639,
+            "stock": 9,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "men",
+                "bold",
+                "cargo pants"
+            ],
+            "reviews": [
+                {
+                    "id": "r-27-0",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-04T20:56:27.327Z"
+                },
+                {
+                    "id": "r-27-1",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-18T20:56:27.327Z"
+                },
+                {
+                    "id": "r-27-2",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-26T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "28",
+            "slug": "cosmic-overshirt-28",
+            "title": "Cosmic Overshirt",
+            "brand": "Atelier 9",
+            "description": "Cosmic Overshirt from Men. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 65.65,
+            "images": [
+                "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1488161628813-04466f872be2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "men",
+            "colors": [
+                "Lilac",
+                "Sand",
+                "Sky",
+                "Cocoa",
+                "Crimson"
+            ],
+            "sizes": [
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "rating": 4,
+            "reviewCount": 28,
+            "stock": 17,
+            "badges": [],
+            "tags": [
+                "men",
+                "cosmic",
+                "overshirt"
+            ],
+            "reviews": [
+                {
+                    "id": "r-28-0",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-03T20:56:27.327Z"
+                },
+                {
+                    "id": "r-28-1",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-20T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "29",
+            "slug": "cloud-sweatpants-29",
+            "title": "Cloud Sweatpants",
+            "brand": "Maison",
+            "description": "Cloud Sweatpants from Kids. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 14.04,
+            "compareAtPrice": 21.9,
+            "images": [
+                "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1503944168849-8bf86e1635b8?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "kids",
+            "colors": [
+                "Olive",
+                "Sand",
+                "Black",
+                "Ivory"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "rating": 4.1,
+            "reviewCount": 121,
+            "stock": 4,
+            "badges": [
+                "Sale",
+                "Low Stock"
+            ],
+            "tags": [
+                "kids",
+                "cloud",
+                "sweatpants"
+            ],
+            "reviews": [
+                {
+                    "id": "r-29-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-26T20:56:27.327Z"
+                },
+                {
+                    "id": "r-29-1",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-05T20:56:27.327Z"
+                },
+                {
+                    "id": "r-29-2",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-28T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "30",
+            "slug": "bloom-dress-30",
+            "title": "Bloom Dress",
+            "brand": "Maison",
+            "description": "Bloom Dress from Kids. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 33.38,
+            "images": [
+                "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "kids",
+            "colors": [
+                "Pink",
+                "Cocoa",
+                "Black",
+                "Olive",
+                "Sage"
+            ],
+            "sizes": [
+                "XS",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "rating": 3.6,
+            "reviewCount": 267,
+            "stock": 18,
+            "badges": [
+                "New"
+            ],
+            "tags": [
+                "kids",
+                "bloom",
+                "dress"
+            ],
+            "reviews": [
+                {
+                    "id": "r-30-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-01T20:56:27.327Z"
+                },
+                {
+                    "id": "r-30-1",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-22T20:56:27.327Z"
+                },
+                {
+                    "id": "r-30-2",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-02T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "31",
+            "slug": "bold-denim-overalls-31",
+            "title": "Bold Denim Overalls",
+            "brand": "KORA",
+            "description": "Bold Denim Overalls from Kids. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 61.97,
+            "images": [
+                "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1503944168849-8bf86e1635b8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "kids",
+            "colors": [
+                "Pink",
+                "Sand",
+                "Cocoa"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "rating": 4.5,
+            "reviewCount": 343,
+            "stock": 31,
+            "badges": [],
+            "tags": [
+                "kids",
+                "bold",
+                "denim overalls"
+            ],
+            "reviews": [
+                {
+                    "id": "r-31-0",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-17T20:56:27.327Z"
+                },
+                {
+                    "id": "r-31-1",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-20T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "32",
+            "slug": "cloud-hoodie-set-32",
+            "title": "Cloud Hoodie Set",
+            "brand": "GLAM",
+            "description": "Cloud Hoodie Set from Kids. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 70.7,
+            "compareAtPrice": 97.27,
+            "images": [
+                "https://images.unsplash.com/photo-1503944168849-8bf86e1635b8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "kids",
+            "colors": [
+                "Sand",
+                "Olive",
+                "Black"
+            ],
+            "sizes": [
+                "XS",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "rating": 4.2,
+            "reviewCount": 925,
+            "stock": 24,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "kids",
+                "cloud",
+                "hoodie set"
+            ],
+            "reviews": [
+                {
+                    "id": "r-32-0",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-15T20:56:27.327Z"
+                },
+                {
+                    "id": "r-32-1",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-14T20:56:27.327Z"
+                },
+                {
+                    "id": "r-32-2",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-18T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "33",
+            "slug": "soft-sweatpants-33",
+            "title": "Soft Sweatpants",
+            "brand": "Velora",
+            "description": "Soft Sweatpants from Kids. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 25.84,
+            "compareAtPrice": 37.44,
+            "images": [
+                "https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1503944168849-8bf86e1635b8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "kids",
+            "colors": [
+                "Lilac",
+                "Cocoa",
+                "Ivory",
+                "Sand"
+            ],
+            "sizes": [
+                "XS",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "rating": 3.7,
+            "reviewCount": 901,
+            "stock": 47,
+            "badges": [
+                "Sale",
+                "New"
+            ],
+            "tags": [
+                "kids",
+                "soft",
+                "sweatpants"
+            ],
+            "reviews": [
+                {
+                    "id": "r-33-0",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-03T20:56:27.327Z"
+                },
+                {
+                    "id": "r-33-1",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-05T20:56:27.327Z"
+                },
+                {
+                    "id": "r-33-2",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-10T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "34",
+            "slug": "neon-beanie-34",
+            "title": "Neon Beanie",
+            "brand": "ZEN",
+            "description": "Neon Beanie from Kids. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 72.59,
+            "compareAtPrice": 115.31,
+            "images": [
+                "https://images.unsplash.com/photo-1503944168849-8bf86e1635b8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "kids",
+            "colors": [
+                "Sand",
+                "Olive",
+                "Ivory"
+            ],
+            "sizes": [
+                "XS",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "rating": 5,
+            "reviewCount": 667,
+            "stock": 47,
+            "badges": [
+                "Sale",
+                "New"
+            ],
+            "tags": [
+                "kids",
+                "neon",
+                "beanie"
+            ],
+            "reviews": [
+                {
+                    "id": "r-34-0",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-15T20:56:27.327Z"
+                },
+                {
+                    "id": "r-34-1",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-10T20:56:27.327Z"
+                },
+                {
+                    "id": "r-34-2",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-17T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "35",
+            "slug": "glow-puffer-vest-35",
+            "title": "Glow Puffer Vest",
+            "brand": "GLAM",
+            "description": "Glow Puffer Vest from Kids. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 11.11,
+            "images": [
+                "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1503944168849-8bf86e1635b8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "kids",
+            "colors": [
+                "Crimson",
+                "Olive",
+                "Ivory",
+                "Lilac"
+            ],
+            "sizes": [
+                "XS",
+                "M",
+                "XL",
+                "XXL"
+            ],
+            "rating": 3.7,
+            "reviewCount": 929,
+            "stock": 25,
+            "badges": [
+                "Trending"
+            ],
+            "tags": [
+                "kids",
+                "glow",
+                "puffer vest"
+            ],
+            "reviews": [
+                {
+                    "id": "r-35-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-07T20:56:27.327Z"
+                },
+                {
+                    "id": "r-35-1",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-15T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "36",
+            "slug": "soft-denim-overalls-36",
+            "title": "Soft Denim Overalls",
+            "brand": "KORA",
+            "description": "Soft Denim Overalls from Kids. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 5.18,
+            "compareAtPrice": 7.55,
+            "images": [
+                "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "kids",
+            "colors": [
+                "Sage",
+                "Sky",
+                "Black",
+                "Olive",
+                "Sand"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "XL",
+                "XXL"
+            ],
+            "rating": 3.6,
+            "reviewCount": 1036,
+            "stock": 6,
+            "badges": [
+                "Sale",
+                "New",
+                "Low Stock"
+            ],
+            "tags": [
+                "kids",
+                "soft",
+                "denim overalls"
+            ],
+            "reviews": [
+                {
+                    "id": "r-36-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-02T20:56:27.327Z"
+                },
+                {
+                    "id": "r-36-1",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-26T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "37",
+            "slug": "velvet-sneakers-37",
+            "title": "Velvet Sneakers",
+            "brand": "Olive & Oak",
+            "description": "Velvet Sneakers from Kids. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 43.66,
+            "images": [
+                "https://images.unsplash.com/photo-1503944168849-8bf86e1635b8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "kids",
+            "colors": [
+                "Olive",
+                "Sky",
+                "Black",
+                "Sand"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "XL",
+                "XXL"
+            ],
+            "rating": 4.3,
+            "reviewCount": 609,
+            "stock": 27,
+            "badges": [],
+            "tags": [
+                "kids",
+                "velvet",
+                "sneakers"
+            ],
+            "reviews": [
+                {
+                    "id": "r-37-0",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-21T20:56:27.327Z"
+                },
+                {
+                    "id": "r-37-1",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-29T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "38",
+            "slug": "mystic-glow-serum-38",
+            "title": "Mystic Glow Serum",
+            "brand": "Velora",
+            "description": "Mystic Glow Serum from Beauty. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 37.81,
+            "images": [
+                "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1631214540242-cf2bc4ce4cdb?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "beauty",
+            "colors": [
+                "Crimson",
+                "Sky",
+                "Cocoa",
+                "Ivory"
+            ],
+            "sizes": [],
+            "rating": 4,
+            "reviewCount": 932,
+            "stock": 41,
+            "badges": [],
+            "tags": [
+                "beauty",
+                "mystic",
+                "glow serum"
+            ],
+            "reviews": [
+                {
+                    "id": "r-38-0",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-30T20:56:27.327Z"
+                },
+                {
+                    "id": "r-38-1",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-13T20:56:27.327Z"
+                },
+                {
+                    "id": "r-38-2",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-20T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "39",
+            "slug": "modern-eyeshadow-palette-39",
+            "title": "Modern Eyeshadow Palette",
+            "brand": "Maison",
+            "description": "Modern Eyeshadow Palette from Beauty. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 5.48,
+            "compareAtPrice": 9.37,
+            "images": [
+                "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1583241475880-083f84372725?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "beauty",
+            "colors": [
+                "Cocoa",
+                "Crimson",
+                "Sage",
+                "Pink"
+            ],
+            "sizes": [],
+            "rating": 4.9,
+            "reviewCount": 100,
+            "stock": 48,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "beauty",
+                "modern",
+                "eyeshadow palette"
+            ],
+            "reviews": [
+                {
+                    "id": "r-39-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-10T20:56:27.327Z"
+                },
+                {
+                    "id": "r-39-1",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-30T20:56:27.327Z"
+                },
+                {
+                    "id": "r-39-2",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-02T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "40",
+            "slug": "urban-brow-pencil-40",
+            "title": "Urban Brow Pencil",
+            "brand": "NORTH",
+            "description": "Urban Brow Pencil from Beauty. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 15.68,
+            "compareAtPrice": 22.99,
+            "images": [
+                "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "beauty",
+            "colors": [
+                "Ivory",
+                "Sand",
+                "Black",
+                "Pink"
+            ],
+            "sizes": [],
+            "rating": 3.8,
+            "reviewCount": 921,
+            "stock": 22,
+            "badges": [
+                "Sale",
+                "New"
+            ],
+            "tags": [
+                "beauty",
+                "urban",
+                "brow pencil"
+            ],
+            "reviews": [
+                {
+                    "id": "r-40-0",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-26T20:56:27.327Z"
+                },
+                {
+                    "id": "r-40-1",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-06T20:56:27.327Z"
+                },
+                {
+                    "id": "r-40-2",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-06T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "41",
+            "slug": "velvet-lip-gloss-41",
+            "title": "Velvet Lip Gloss",
+            "brand": "Olive & Oak",
+            "description": "Velvet Lip Gloss from Beauty. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 25.13,
+            "images": [
+                "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1583241475880-083f84372725?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1631214540242-cf2bc4ce4cdb?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "beauty",
+            "colors": [
+                "Olive",
+                "Sage",
+                "Black",
+                "Sky",
+                "Ivory"
+            ],
+            "sizes": [],
+            "rating": 3.9,
+            "reviewCount": 843,
+            "stock": 46,
+            "badges": [
+                "New"
+            ],
+            "tags": [
+                "beauty",
+                "velvet",
+                "lip gloss"
+            ],
+            "reviews": [
+                {
+                    "id": "r-41-0",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-11T20:56:27.327Z"
+                },
+                {
+                    "id": "r-41-1",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-24T20:56:27.327Z"
+                },
+                {
+                    "id": "r-41-2",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-27T20:56:27.327Z"
+                }
+            ]
+        },
+        {
+            "id": "42",
+            "slug": "cosmic-glow-serum-42",
+            "title": "Cosmic Glow Serum",
+            "brand": "Velora",
+            "description": "Cosmic Glow Serum from Beauty. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 7.18,
+            "compareAtPrice": 11.21,
+            "images": [
+                "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1631214540242-cf2bc4ce4cdb?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "beauty",
+            "colors": [
+                "Sky",
+                "Black",
+                "Crimson",
+                "Sand",
+                "Sage"
+            ],
+            "sizes": [],
+            "rating": 4.8,
+            "reviewCount": 1021,
+            "stock": 1,
+            "badges": [
+                "Sale",
+                "Low Stock"
+            ],
+            "tags": [
+                "beauty",
+                "cosmic",
+                "glow serum"
+            ],
+            "reviews": [
+                {
+                    "id": "r-42-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-26T20:56:27.328Z"
+                },
+                {
+                    "id": "r-42-1",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-25T20:56:27.328Z"
+                },
+                {
+                    "id": "r-42-2",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-17T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "43",
+            "slug": "luxe-glow-serum-43",
+            "title": "Luxe Glow Serum",
+            "brand": "Olive & Oak",
+            "description": "Luxe Glow Serum from Beauty. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 76.81,
+            "compareAtPrice": 117.35,
+            "images": [
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1522335789203-aaa2e757fff8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "beauty",
+            "colors": [
+                "Lilac",
+                "Pink",
+                "Ivory"
+            ],
+            "sizes": [],
+            "rating": 4.3,
+            "reviewCount": 712,
+            "stock": 26,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "beauty",
+                "luxe",
+                "glow serum"
+            ],
+            "reviews": [
+                {
+                    "id": "r-43-0",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-21T20:56:27.328Z"
+                },
+                {
+                    "id": "r-43-1",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-20T20:56:27.328Z"
+                },
+                {
+                    "id": "r-43-2",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-07T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "44",
+            "slug": "bold-matte-lipstick-44",
+            "title": "Bold Matte Lipstick",
+            "brand": "Lumen",
+            "description": "Bold Matte Lipstick from Beauty. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 22.39,
+            "compareAtPrice": 38.1,
+            "images": [
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "beauty",
+            "colors": [
+                "Black",
+                "Ivory",
+                "Pink",
+                "Sky"
+            ],
+            "sizes": [],
+            "rating": 4.6,
+            "reviewCount": 232,
+            "stock": 45,
+            "badges": [
+                "Sale",
+                "New"
+            ],
+            "tags": [
+                "beauty",
+                "bold",
+                "matte lipstick"
+            ],
+            "reviews": [
+                {
+                    "id": "r-44-0",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-18T20:56:27.328Z"
+                },
+                {
+                    "id": "r-44-1",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-02T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "45",
+            "slug": "cloud-eyeshadow-palette-45",
+            "title": "Cloud Eyeshadow Palette",
+            "brand": "Velora",
+            "description": "Cloud Eyeshadow Palette from Beauty. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 41.06,
+            "images": [
+                "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1631214540242-cf2bc4ce4cdb?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "beauty",
+            "colors": [
+                "Olive",
+                "Sand",
+                "Pink"
+            ],
+            "sizes": [],
+            "rating": 4,
+            "reviewCount": 367,
+            "stock": 33,
+            "badges": [
+                "New"
+            ],
+            "tags": [
+                "beauty",
+                "cloud",
+                "eyeshadow palette"
+            ],
+            "reviews": [
+                {
+                    "id": "r-45-0",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-17T20:56:27.328Z"
+                },
+                {
+                    "id": "r-45-1",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-28T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "46",
+            "slug": "sunset-glow-serum-46",
+            "title": "Sunset Glow Serum",
+            "brand": "Atelier 9",
+            "description": "Sunset Glow Serum from Beauty. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 56.18,
+            "compareAtPrice": 101.01,
+            "images": [
+                "https://images.unsplash.com/photo-1631214540242-cf2bc4ce4cdb?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "beauty",
+            "colors": [
+                "Pink",
+                "Olive",
+                "Black"
+            ],
+            "sizes": [],
+            "rating": 4.5,
+            "reviewCount": 75,
+            "stock": 41,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "beauty",
+                "sunset",
+                "glow serum"
+            ],
+            "reviews": [
+                {
+                    "id": "r-46-0",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-22T20:56:27.328Z"
+                },
+                {
+                    "id": "r-46-1",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-14T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "47",
+            "slug": "soft-ceramic-vase-47",
+            "title": "Soft Ceramic Vase",
+            "brand": "Velora",
+            "description": "Soft Ceramic Vase from Home. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 66.53,
+            "images": [
+                "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1540574163026-643ea20ade25?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "home",
+            "colors": [
+                "Black",
+                "Sage",
+                "Ivory",
+                "Olive"
+            ],
+            "sizes": [],
+            "rating": 4.1,
+            "reviewCount": 1443,
+            "stock": 14,
+            "badges": [],
+            "tags": [
+                "home",
+                "soft",
+                "ceramic vase"
+            ],
+            "reviews": [
+                {
+                    "id": "r-47-0",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-09T20:56:27.328Z"
+                },
+                {
+                    "id": "r-47-1",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-27T20:56:27.328Z"
+                },
+                {
+                    "id": "r-47-2",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-16T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "48",
+            "slug": "sunset-ceramic-vase-48",
+            "title": "Sunset Ceramic Vase",
+            "brand": "FERN",
+            "description": "Sunset Ceramic Vase from Home. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 39.61,
+            "images": [
+                "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1531835551805-16d864c8d311?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "home",
+            "colors": [
+                "Lilac",
+                "Sky",
+                "Sage",
+                "Olive",
+                "Sand"
+            ],
+            "sizes": [],
+            "rating": 5,
+            "reviewCount": 1494,
+            "stock": 9,
+            "badges": [
+                "Trending"
+            ],
+            "tags": [
+                "home",
+                "sunset",
+                "ceramic vase"
+            ],
+            "reviews": [
+                {
+                    "id": "r-48-0",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-20T20:56:27.328Z"
+                },
+                {
+                    "id": "r-48-1",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-25T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "49",
+            "slug": "pearl-cushion-cover-49",
+            "title": "Pearl Cushion Cover",
+            "brand": "NORTH",
+            "description": "Pearl Cushion Cover from Home. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 65.51,
+            "images": [
+                "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1540574163026-643ea20ade25?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1531835551805-16d864c8d311?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1567016432779-094069958ea5?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "home",
+            "colors": [
+                "Pink",
+                "Ivory",
+                "Sky"
+            ],
+            "sizes": [],
+            "rating": 4.3,
+            "reviewCount": 1032,
+            "stock": 22,
+            "badges": [],
+            "tags": [
+                "home",
+                "pearl",
+                "cushion cover"
+            ],
+            "reviews": [
+                {
+                    "id": "r-49-0",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-25T20:56:27.328Z"
+                },
+                {
+                    "id": "r-49-1",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-02-28T20:56:27.328Z"
+                },
+                {
+                    "id": "r-49-2",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-21T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "50",
+            "slug": "luxe-candle-set-50",
+            "title": "Luxe Candle Set",
+            "brand": "ZEN",
+            "description": "Luxe Candle Set from Home. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 29.44,
+            "images": [
+                "https://images.unsplash.com/photo-1567016432779-094069958ea5?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "home",
+            "colors": [
+                "Olive",
+                "Sky",
+                "Cocoa"
+            ],
+            "sizes": [],
+            "rating": 3.9,
+            "reviewCount": 1160,
+            "stock": 45,
+            "badges": [
+                "New"
+            ],
+            "tags": [
+                "home",
+                "luxe",
+                "candle set"
+            ],
+            "reviews": [
+                {
+                    "id": "r-50-0",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-09T20:56:27.328Z"
+                },
+                {
+                    "id": "r-50-1",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-16T20:56:27.328Z"
+                },
+                {
+                    "id": "r-50-2",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-03T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "51",
+            "slug": "dreamy-candle-set-51",
+            "title": "Dreamy Candle Set",
+            "brand": "Olive & Oak",
+            "description": "Dreamy Candle Set from Home. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 84.9,
+            "compareAtPrice": 142.8,
+            "images": [
+                "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1531835551805-16d864c8d311?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "home",
+            "colors": [
+                "Olive",
+                "Lilac",
+                "Crimson"
+            ],
+            "sizes": [],
+            "rating": 4.3,
+            "reviewCount": 632,
+            "stock": 22,
+            "badges": [
+                "Sale",
+                "New"
+            ],
+            "tags": [
+                "home",
+                "dreamy",
+                "candle set"
+            ],
+            "reviews": [
+                {
+                    "id": "r-51-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-29T20:56:27.328Z"
+                },
+                {
+                    "id": "r-51-1",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-22T20:56:27.328Z"
+                },
+                {
+                    "id": "r-51-2",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-21T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "52",
+            "slug": "aurora-storage-basket-52",
+            "title": "Aurora Storage Basket",
+            "brand": "Velora",
+            "description": "Aurora Storage Basket from Home. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 61.28,
+            "images": [
+                "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1540574163026-643ea20ade25?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1531835551805-16d864c8d311?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "home",
+            "colors": [
+                "Sky",
+                "Ivory",
+                "Lilac",
+                "Pink"
+            ],
+            "sizes": [],
+            "rating": 3.6,
+            "reviewCount": 950,
+            "stock": 45,
+            "badges": [],
+            "tags": [
+                "home",
+                "aurora",
+                "storage basket"
+            ],
+            "reviews": [
+                {
+                    "id": "r-52-0",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-01T20:56:27.328Z"
+                },
+                {
+                    "id": "r-52-1",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-04T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "53",
+            "slug": "soft-wall-art-53",
+            "title": "Soft Wall Art",
+            "brand": "GLAM",
+            "description": "Soft Wall Art from Home. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 29.94,
+            "compareAtPrice": 49.32,
+            "images": [
+                "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1531835551805-16d864c8d311?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "home",
+            "colors": [
+                "Lilac",
+                "Black",
+                "Sage"
+            ],
+            "sizes": [],
+            "rating": 4.2,
+            "reviewCount": 1321,
+            "stock": 19,
+            "badges": [
+                "Sale",
+                "Trending"
+            ],
+            "tags": [
+                "home",
+                "soft",
+                "wall art"
+            ],
+            "reviews": [
+                {
+                    "id": "r-53-0",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-13T20:56:27.328Z"
+                },
+                {
+                    "id": "r-53-1",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-17T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "54",
+            "slug": "cosmic-candle-set-54",
+            "title": "Cosmic Candle Set",
+            "brand": "NORTH",
+            "description": "Cosmic Candle Set from Home. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 19.26,
+            "compareAtPrice": 25.32,
+            "images": [
+                "https://images.unsplash.com/photo-1540574163026-643ea20ade25?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "home",
+            "colors": [
+                "Sky",
+                "Ivory",
+                "Sage",
+                "Lilac",
+                "Sand"
+            ],
+            "sizes": [],
+            "rating": 4,
+            "reviewCount": 651,
+            "stock": 47,
+            "badges": [
+                "Sale",
+                "New",
+                "Trending"
+            ],
+            "tags": [
+                "home",
+                "cosmic",
+                "candle set"
+            ],
+            "reviews": [
+                {
+                    "id": "r-54-0",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-09T20:56:27.328Z"
+                },
+                {
+                    "id": "r-54-1",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-13T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "55",
+            "slug": "wild-bedding-set-55",
+            "title": "Wild Bedding Set",
+            "brand": "GLAM",
+            "description": "Wild Bedding Set from Home. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 13.4,
+            "images": [
+                "https://images.unsplash.com/photo-1540574163026-643ea20ade25?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1567016432779-094069958ea5?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "home",
+            "colors": [
+                "Olive",
+                "Crimson",
+                "Lilac",
+                "Black",
+                "Sky"
+            ],
+            "sizes": [],
+            "rating": 4.6,
+            "reviewCount": 1095,
+            "stock": 28,
+            "badges": [],
+            "tags": [
+                "home",
+                "wild",
+                "bedding set"
+            ],
+            "reviews": [
+                {
+                    "id": "r-55-0",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-02-27T20:56:27.328Z"
+                },
+                {
+                    "id": "r-55-1",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-12T20:56:27.328Z"
+                },
+                {
+                    "id": "r-55-2",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-22T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "56",
+            "slug": "mystic-beanie-56",
+            "title": "Mystic Beanie",
+            "brand": "GLAM",
+            "description": "Mystic Beanie from Accessories. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 84.96,
+            "images": [
+                "https://images.unsplash.com/photo-1611923134239-b9be5816e23a?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1576053139778-7e32f2b3afe2?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "accessories",
+            "colors": [
+                "Sand",
+                "Cocoa",
+                "Lilac",
+                "Sky",
+                "Pink"
+            ],
+            "sizes": [],
+            "rating": 3.9,
+            "reviewCount": 1175,
+            "stock": 47,
+            "badges": [],
+            "tags": [
+                "accessories",
+                "mystic",
+                "beanie"
+            ],
+            "reviews": [
+                {
+                    "id": "r-56-0",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-20T20:56:27.328Z"
+                },
+                {
+                    "id": "r-56-1",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-19T20:56:27.328Z"
+                },
+                {
+                    "id": "r-56-2",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-27T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "57",
+            "slug": "soft-belt-57",
+            "title": "Soft Belt",
+            "brand": "ZEN",
+            "description": "Soft Belt from Accessories. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 57.99,
+            "images": [
+                "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1576053139778-7e32f2b3afe2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1535632066274-c7ace2a8f5e1?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "accessories",
+            "colors": [
+                "Olive",
+                "Sky",
+                "Black",
+                "Lilac",
+                "Ivory"
+            ],
+            "sizes": [],
+            "rating": 4.8,
+            "reviewCount": 242,
+            "stock": 27,
+            "badges": [],
+            "tags": [
+                "accessories",
+                "soft",
+                "belt"
+            ],
+            "reviews": [
+                {
+                    "id": "r-57-0",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-03T20:56:27.328Z"
+                },
+                {
+                    "id": "r-57-1",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-21T20:56:27.328Z"
+                },
+                {
+                    "id": "r-57-2",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-19T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "58",
+            "slug": "neon-beanie-58",
+            "title": "Neon Beanie",
+            "brand": "Olive & Oak",
+            "description": "Neon Beanie from Accessories. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 65.84,
+            "compareAtPrice": 96.92,
+            "images": [
+                "https://images.unsplash.com/photo-1611923134239-b9be5816e23a?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1576053139778-7e32f2b3afe2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1602810316693-3667c854239a?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "accessories",
+            "colors": [
+                "Crimson",
+                "Sand",
+                "Ivory",
+                "Sky"
+            ],
+            "sizes": [],
+            "rating": 4.3,
+            "reviewCount": 50,
+            "stock": 25,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "accessories",
+                "neon",
+                "beanie"
+            ],
+            "reviews": [
+                {
+                    "id": "r-58-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-26T20:56:27.328Z"
+                },
+                {
+                    "id": "r-58-1",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-06T20:56:27.328Z"
+                },
+                {
+                    "id": "r-58-2",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-19T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "59",
+            "slug": "cloud-sunglasses-59",
+            "title": "Cloud Sunglasses",
+            "brand": "Maison",
+            "description": "Cloud Sunglasses from Accessories. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 81.84,
+            "compareAtPrice": 129.54,
+            "images": [
+                "https://images.unsplash.com/photo-1576053139778-7e32f2b3afe2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1611923134239-b9be5816e23a?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "accessories",
+            "colors": [
+                "Cocoa",
+                "Pink",
+                "Ivory",
+                "Sage"
+            ],
+            "sizes": [],
+            "rating": 4.4,
+            "reviewCount": 90,
+            "stock": 44,
+            "badges": [
+                "Sale",
+                "Trending"
+            ],
+            "tags": [
+                "accessories",
+                "cloud",
+                "sunglasses"
+            ],
+            "reviews": [
+                {
+                    "id": "r-59-0",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-09T20:56:27.328Z"
+                },
+                {
+                    "id": "r-59-1",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-07T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "60",
+            "slug": "mystic-sunglasses-60",
+            "title": "Mystic Sunglasses",
+            "brand": "FERN",
+            "description": "Mystic Sunglasses from Accessories. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 14.41,
+            "compareAtPrice": 21.88,
+            "images": [
+                "https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1576053139778-7e32f2b3afe2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1602810316693-3667c854239a?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "accessories",
+            "colors": [
+                "Crimson",
+                "Cocoa",
+                "Olive"
+            ],
+            "sizes": [],
+            "rating": 3.7,
+            "reviewCount": 243,
+            "stock": 49,
+            "badges": [
+                "Sale",
+                "New"
+            ],
+            "tags": [
+                "accessories",
+                "mystic",
+                "sunglasses"
+            ],
+            "reviews": [
+                {
+                    "id": "r-60-0",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-08T20:56:27.328Z"
+                },
+                {
+                    "id": "r-60-1",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-22T20:56:27.328Z"
+                },
+                {
+                    "id": "r-60-2",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-05T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "61",
+            "slug": "bold-watch-61",
+            "title": "Bold Watch",
+            "brand": "Lumen",
+            "description": "Bold Watch from Accessories. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 83.95,
+            "images": [
+                "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1602810316693-3667c854239a?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1576053139778-7e32f2b3afe2?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "accessories",
+            "colors": [
+                "Cocoa",
+                "Crimson",
+                "Sand"
+            ],
+            "sizes": [],
+            "rating": 4,
+            "reviewCount": 572,
+            "stock": 48,
+            "badges": [],
+            "tags": [
+                "accessories",
+                "bold",
+                "watch"
+            ],
+            "reviews": [
+                {
+                    "id": "r-61-0",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-26T20:56:27.328Z"
+                },
+                {
+                    "id": "r-61-1",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-23T20:56:27.328Z"
+                },
+                {
+                    "id": "r-61-2",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-13T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "62",
+            "slug": "bold-beanie-62",
+            "title": "Bold Beanie",
+            "brand": "Maison",
+            "description": "Bold Beanie from Accessories. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 76.12,
+            "images": [
+                "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1576053139778-7e32f2b3afe2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1602810316693-3667c854239a?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "accessories",
+            "colors": [
+                "Sand",
+                "Pink",
+                "Black",
+                "Cocoa"
+            ],
+            "sizes": [],
+            "rating": 4.8,
+            "reviewCount": 526,
+            "stock": 7,
+            "badges": [
+                "Low Stock"
+            ],
+            "tags": [
+                "accessories",
+                "bold",
+                "beanie"
+            ],
+            "reviews": [
+                {
+                    "id": "r-62-0",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-31T20:56:27.328Z"
+                },
+                {
+                    "id": "r-62-1",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-08T20:56:27.328Z"
+                },
+                {
+                    "id": "r-62-2",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-02-27T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "63",
+            "slug": "velvet-beanie-63",
+            "title": "Velvet Beanie",
+            "brand": "Velora",
+            "description": "Velvet Beanie from Accessories. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 40.54,
+            "compareAtPrice": 61.23,
+            "images": [
+                "https://images.unsplash.com/photo-1535632066274-c7ace2a8f5e1?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1611923134239-b9be5816e23a?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "accessories",
+            "colors": [
+                "Black",
+                "Lilac",
+                "Olive"
+            ],
+            "sizes": [],
+            "rating": 3.8,
+            "reviewCount": 411,
+            "stock": 42,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "accessories",
+                "velvet",
+                "beanie"
+            ],
+            "reviews": [
+                {
+                    "id": "r-63-0",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-28T20:56:27.328Z"
+                },
+                {
+                    "id": "r-63-1",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-25T20:56:27.328Z"
+                },
+                {
+                    "id": "r-63-2",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-22T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "64",
+            "slug": "glow-hair-clip-64",
+            "title": "Glow Hair Clip",
+            "brand": "KORA",
+            "description": "Glow Hair Clip from Accessories. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 68.4,
+            "compareAtPrice": 121.68,
+            "images": [
+                "https://images.unsplash.com/photo-1611923134239-b9be5816e23a?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1602810316693-3667c854239a?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1576053139778-7e32f2b3afe2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "accessories",
+            "colors": [
+                "Pink",
+                "Black",
+                "Sky"
+            ],
+            "sizes": [],
+            "rating": 4.9,
+            "reviewCount": 1252,
+            "stock": 43,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "accessories",
+                "glow",
+                "hair clip"
+            ],
+            "reviews": [
+                {
+                    "id": "r-64-0",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-02T20:56:27.328Z"
+                },
+                {
+                    "id": "r-64-1",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-25T20:56:27.328Z"
+                },
+                {
+                    "id": "r-64-2",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-28T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "65",
+            "slug": "modern-trainers-65",
+            "title": "Modern Trainers",
+            "brand": "Maison",
+            "description": "Modern Trainers from Shoes. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 14.75,
+            "compareAtPrice": 18.83,
+            "images": [
+                "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1528698827591-e19ccd7bc23d?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "shoes",
+            "colors": [
+                "Black",
+                "Ivory",
+                "Lilac",
+                "Sky"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "rating": 4.1,
+            "reviewCount": 305,
+            "stock": 32,
+            "badges": [
+                "Sale",
+                "New"
+            ],
+            "tags": [
+                "shoes",
+                "modern",
+                "trainers"
+            ],
+            "reviews": [
+                {
+                    "id": "r-65-0",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-08T20:56:27.328Z"
+                },
+                {
+                    "id": "r-65-1",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-02-28T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "66",
+            "slug": "wild-chunky-sneakers-66",
+            "title": "Wild Chunky Sneakers",
+            "brand": "Maison",
+            "description": "Wild Chunky Sneakers from Shoes. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 41.49,
+            "images": [
+                "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "shoes",
+            "colors": [
+                "Sage",
+                "Olive",
+                "Ivory",
+                "Lilac"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "rating": 4.6,
+            "reviewCount": 338,
+            "stock": 33,
+            "badges": [
+                "New"
+            ],
+            "tags": [
+                "shoes",
+                "wild",
+                "chunky sneakers"
+            ],
+            "reviews": [
+                {
+                    "id": "r-66-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-23T20:56:27.328Z"
+                },
+                {
+                    "id": "r-66-1",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-06T20:56:27.328Z"
+                },
+                {
+                    "id": "r-66-2",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-08T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "67",
+            "slug": "sunset-ankle-boots-67",
+            "title": "Sunset Ankle Boots",
+            "brand": "GLAM",
+            "description": "Sunset Ankle Boots from Shoes. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 57.87,
+            "images": [
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1528698827591-e19ccd7bc23d?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "shoes",
+            "colors": [
+                "Lilac",
+                "Cocoa",
+                "Ivory",
+                "Olive",
+                "Pink"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "XL",
+                "XXL"
+            ],
+            "rating": 4.5,
+            "reviewCount": 687,
+            "stock": 47,
+            "badges": [],
+            "tags": [
+                "shoes",
+                "sunset",
+                "ankle boots"
+            ],
+            "reviews": [
+                {
+                    "id": "r-67-0",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-03-18T20:56:27.328Z"
+                },
+                {
+                    "id": "r-67-1",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-08T20:56:27.328Z"
+                },
+                {
+                    "id": "r-67-2",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-07T20:56:27.328Z"
+                }
+            ]
+        },
+        {
+            "id": "68",
+            "slug": "velvet-slip-ons-68",
+            "title": "Velvet Slip-Ons",
+            "brand": "Lumen",
+            "description": "Velvet Slip-Ons from Shoes. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 75.58,
+            "compareAtPrice": 103.02,
+            "images": [
+                "https://images.unsplash.com/photo-1528698827591-e19ccd7bc23d?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "shoes",
+            "colors": [
+                "Sand",
+                "Black",
+                "Crimson",
+                "Lilac"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "rating": 4.8,
+            "reviewCount": 1133,
+            "stock": 42,
+            "badges": [
+                "Sale",
+                "New"
+            ],
+            "tags": [
+                "shoes",
+                "velvet",
+                "slip-ons"
+            ],
+            "reviews": [
+                {
+                    "id": "r-68-0",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-14T20:56:27.329Z"
+                },
+                {
+                    "id": "r-68-1",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-07T20:56:27.329Z"
+                },
+                {
+                    "id": "r-68-2",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-13T20:56:27.329Z"
+                }
+            ]
+        },
+        {
+            "id": "69",
+            "slug": "cosmic-combat-boots-69",
+            "title": "Cosmic Combat Boots",
+            "brand": "Olive & Oak",
+            "description": "Cosmic Combat Boots from Shoes. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 7.52,
+            "compareAtPrice": 13.35,
+            "images": [
+                "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "shoes",
+            "colors": [
+                "Crimson",
+                "Sage",
+                "Olive"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "rating": 4.7,
+            "reviewCount": 1079,
+            "stock": 20,
+            "badges": [
+                "Sale",
+                "Trending"
+            ],
+            "tags": [
+                "shoes",
+                "cosmic",
+                "combat boots"
+            ],
+            "reviews": [
+                {
+                    "id": "r-69-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-26T20:56:27.329Z"
+                },
+                {
+                    "id": "r-69-1",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-06T20:56:27.329Z"
+                },
+                {
+                    "id": "r-69-2",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-01T20:56:27.329Z"
+                }
+            ]
+        },
+        {
+            "id": "70",
+            "slug": "aurora-slip-ons-70",
+            "title": "Aurora Slip-Ons",
+            "brand": "Atelier 9",
+            "description": "Aurora Slip-Ons from Shoes. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 71.87,
+            "compareAtPrice": 111.29,
+            "images": [
+                "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "shoes",
+            "colors": [
+                "Black",
+                "Pink",
+                "Sage",
+                "Sky",
+                "Olive"
+            ],
+            "sizes": [
+                "XS",
+                "M",
+                "L",
+                "XL"
+            ],
+            "rating": 3.7,
+            "reviewCount": 585,
+            "stock": 17,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "shoes",
+                "aurora",
+                "slip-ons"
+            ],
+            "reviews": [
+                {
+                    "id": "r-70-0",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-26T20:56:27.329Z"
+                },
+                {
+                    "id": "r-70-1",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-07T20:56:27.329Z"
+                }
+            ]
+        },
+        {
+            "id": "71",
+            "slug": "soft-trainers-71",
+            "title": "Soft Trainers",
+            "brand": "Velora",
+            "description": "Soft Trainers from Shoes. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 50.81,
+            "images": [
+                "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "shoes",
+            "colors": [
+                "Crimson",
+                "Cocoa",
+                "Ivory",
+                "Pink"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "rating": 4.1,
+            "reviewCount": 365,
+            "stock": 18,
+            "badges": [
+                "New"
+            ],
+            "tags": [
+                "shoes",
+                "soft",
+                "trainers"
+            ],
+            "reviews": [
+                {
+                    "id": "r-71-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-21T20:56:27.329Z"
+                },
+                {
+                    "id": "r-71-1",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-24T20:56:27.329Z"
+                }
+            ]
+        },
+        {
+            "id": "72",
+            "slug": "cloud-ankle-boots-72",
+            "title": "Cloud Ankle Boots",
+            "brand": "FERN",
+            "description": "Cloud Ankle Boots from Shoes. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 76.89,
+            "compareAtPrice": 114.29,
+            "images": [
+                "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1528698827591-e19ccd7bc23d?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "shoes",
+            "colors": [
+                "Crimson",
+                "Olive",
+                "Cocoa",
+                "Lilac",
+                "Black"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "rating": 4,
+            "reviewCount": 738,
+            "stock": 44,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "shoes",
+                "cloud",
+                "ankle boots"
+            ],
+            "reviews": [
+                {
+                    "id": "r-72-0",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-26T20:56:27.329Z"
+                },
+                {
+                    "id": "r-72-1",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-01T20:56:27.329Z"
+                },
+                {
+                    "id": "r-72-2",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-06T20:56:27.329Z"
+                }
+            ]
+        },
+        {
+            "id": "73",
+            "slug": "luxe-mules-73",
+            "title": "Luxe Mules",
+            "brand": "Atelier 9",
+            "description": "Luxe Mules from Shoes. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 60.02,
+            "compareAtPrice": 91.05,
+            "images": [
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1528698827591-e19ccd7bc23d?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "shoes",
+            "colors": [
+                "Sage",
+                "Ivory",
+                "Pink"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "L",
+                "XXL"
+            ],
+            "rating": 4,
+            "reviewCount": 771,
+            "stock": 19,
+            "badges": [
+                "Sale",
+                "New",
+                "Trending"
+            ],
+            "tags": [
+                "shoes",
+                "luxe",
+                "mules"
+            ],
+            "reviews": [
+                {
+                    "id": "r-73-0",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-17T20:56:27.329Z"
+                },
+                {
+                    "id": "r-73-1",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-02-27T20:56:27.329Z"
+                },
+                {
+                    "id": "r-73-2",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-12T20:56:27.329Z"
+                }
+            ]
+        },
+        {
+            "id": "74",
+            "slug": "pearl-mini-backpack-74",
+            "title": "Pearl Mini Backpack",
+            "brand": "Maison",
+            "description": "Pearl Mini Backpack from Bags. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 70.06,
+            "images": [
+                "https://images.unsplash.com/photo-1591561954557-26941169b49e?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1564422170194-896b89110ef8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1597633244018-0201d0158aab?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "bags",
+            "colors": [
+                "Black",
+                "Sand",
+                "Sage",
+                "Lilac"
+            ],
+            "sizes": [],
+            "rating": 3.7,
+            "reviewCount": 545,
+            "stock": 18,
+            "badges": [
+                "New"
+            ],
+            "tags": [
+                "bags",
+                "pearl",
+                "mini backpack"
+            ],
+            "reviews": [
+                {
+                    "id": "r-74-0",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-30T20:56:27.329Z"
+                },
+                {
+                    "id": "r-74-1",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-02T20:56:27.329Z"
+                }
+            ]
+        },
+        {
+            "id": "75",
+            "slug": "cosmic-clutch-75",
+            "title": "Cosmic Clutch",
+            "brand": "Atelier 9",
+            "description": "Cosmic Clutch from Bags. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 18.93,
+            "compareAtPrice": 32.21,
+            "images": [
+                "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1597633244018-0201d0158aab?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1564422170194-896b89110ef8?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "bags",
+            "colors": [
+                "Black",
+                "Olive",
+                "Pink",
+                "Cocoa"
+            ],
+            "sizes": [],
+            "rating": 4.1,
+            "reviewCount": 593,
+            "stock": 28,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "bags",
+                "cosmic",
+                "clutch"
+            ],
+            "reviews": [
+                {
+                    "id": "r-75-0",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-25T20:56:27.329Z"
+                },
+                {
+                    "id": "r-75-1",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-20T20:56:27.329Z"
+                },
+                {
+                    "id": "r-75-2",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-10T20:56:27.329Z"
+                }
+            ]
+        },
+        {
+            "id": "76",
+            "slug": "sleek-clutch-76",
+            "title": "Sleek Clutch",
+            "brand": "Atelier 9",
+            "description": "Sleek Clutch from Bags. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 50.6,
+            "images": [
+                "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1564422170194-896b89110ef8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1597633244018-0201d0158aab?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "bags",
+            "colors": [
+                "Cocoa",
+                "Olive",
+                "Ivory"
+            ],
+            "sizes": [],
+            "rating": 4.4,
+            "reviewCount": 584,
+            "stock": 33,
+            "badges": [
+                "Trending"
+            ],
+            "tags": [
+                "bags",
+                "sleek",
+                "clutch"
+            ],
+            "reviews": [
+                {
+                    "id": "r-76-0",
+                    "user": "Alex T.",
+                    "rating": 4,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-04-10T20:56:27.329Z"
+                },
+                {
+                    "id": "r-76-1",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-11T20:56:27.329Z"
+                }
+            ]
+        },
+        {
+            "id": "77",
+            "slug": "luxe-crossbody-bag-77",
+            "title": "Luxe Crossbody Bag",
+            "brand": "Olive & Oak",
+            "description": "Luxe Crossbody Bag from Bags. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 64.42,
+            "compareAtPrice": 93.87,
+            "images": [
+                "https://images.unsplash.com/photo-1564422170194-896b89110ef8?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "bags",
+            "colors": [
+                "Sage",
+                "Sand",
+                "Sky"
+            ],
+            "sizes": [],
+            "rating": 4.8,
+            "reviewCount": 202,
+            "stock": 1,
+            "badges": [
+                "Sale",
+                "New",
+                "Low Stock"
+            ],
+            "tags": [
+                "bags",
+                "luxe",
+                "crossbody bag"
+            ],
+            "reviews": [
+                {
+                    "id": "r-77-0",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-06T20:56:27.329Z"
+                },
+                {
+                    "id": "r-77-1",
+                    "user": "Mia K.",
+                    "rating": 4,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-14T20:56:27.329Z"
+                },
+                {
+                    "id": "r-77-2",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-25T20:56:27.329Z"
+                }
+            ]
+        },
+        {
+            "id": "78",
+            "slug": "dreamy-crossbody-bag-78",
+            "title": "Dreamy Crossbody Bag",
+            "brand": "Lumen",
+            "description": "Dreamy Crossbody Bag from Bags. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 12.96,
+            "images": [
+                "https://images.unsplash.com/photo-1597633244018-0201d0158aab?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "bags",
+            "colors": [
+                "Sand",
+                "Crimson",
+                "Ivory"
+            ],
+            "sizes": [],
+            "rating": 3.6,
+            "reviewCount": 357,
+            "stock": 37,
+            "badges": [
+                "Trending"
+            ],
+            "tags": [
+                "bags",
+                "dreamy",
+                "crossbody bag"
+            ],
+            "reviews": [
+                {
+                    "id": "r-78-0",
+                    "user": "Alex T.",
+                    "rating": 5,
+                    "title": "Worth every penny",
+                    "body": "Soft fabric, beautiful drape, gets compliments all the time.",
+                    "date": "2026-02-28T20:56:27.329Z"
+                },
+                {
+                    "id": "r-78-1",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-11T20:56:27.329Z"
+                }
+            ]
+        },
+        {
+            "id": "79",
+            "slug": "cloud-shoulder-bag-79",
+            "title": "Cloud Shoulder Bag",
+            "brand": "KORA",
+            "description": "Cloud Shoulder Bag from Bags. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 32.33,
+            "images": [
+                "https://images.unsplash.com/photo-1591561954557-26941169b49e?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1564422170194-896b89110ef8?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "bags",
+            "colors": [
+                "Sand",
+                "Black",
+                "Cocoa",
+                "Lilac"
+            ],
+            "sizes": [],
+            "rating": 3.8,
+            "reviewCount": 973,
+            "stock": 48,
+            "badges": [
+                "New"
+            ],
+            "tags": [
+                "bags",
+                "cloud",
+                "shoulder bag"
+            ],
+            "reviews": [
+                {
+                    "id": "r-79-0",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-04-19T20:56:27.329Z"
+                },
+                {
+                    "id": "r-79-1",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-31T20:56:27.329Z"
+                }
+            ]
+        },
+        {
+            "id": "80",
+            "slug": "velvet-bucket-bag-80",
+            "title": "Velvet Bucket Bag",
+            "brand": "Velora",
+            "description": "Velvet Bucket Bag from Bags. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 35.64,
+            "compareAtPrice": 61.84,
+            "images": [
+                "https://images.unsplash.com/photo-1597633244018-0201d0158aab?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1591561954557-26941169b49e?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1564422170194-896b89110ef8?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "bags",
+            "colors": [
+                "Pink",
+                "Black",
+                "Lilac",
+                "Sky",
+                "Cocoa"
+            ],
+            "sizes": [],
+            "rating": 4.3,
+            "reviewCount": 1489,
+            "stock": 35,
+            "badges": [
+                "Sale"
+            ],
+            "tags": [
+                "bags",
+                "velvet",
+                "bucket bag"
+            ],
+            "reviews": [
+                {
+                    "id": "r-80-0",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-16T20:56:27.329Z"
+                },
+                {
+                    "id": "r-80-1",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-03-31T20:56:27.329Z"
+                },
+                {
+                    "id": "r-80-2",
+                    "user": "Jordan P.",
+                    "rating": 5,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-03-13T20:56:27.329Z"
+                }
+            ]
+        },
+        {
+            "id": "81",
+            "slug": "coastal-mini-backpack-81",
+            "title": "Coastal Mini Backpack",
+            "brand": "NORTH",
+            "description": "Coastal Mini Backpack from Bags. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 47.8,
+            "compareAtPrice": 60.2,
+            "images": [
+                "https://images.unsplash.com/photo-1597633244018-0201d0158aab?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1564422170194-896b89110ef8?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "bags",
+            "colors": [
+                "Olive",
+                "Crimson",
+                "Sky",
+                "Sage"
+            ],
+            "sizes": [],
+            "rating": 4.9,
+            "reviewCount": 992,
+            "stock": 20,
+            "badges": [
+                "Sale",
+                "New"
+            ],
+            "tags": [
+                "bags",
+                "coastal",
+                "mini backpack"
+            ],
+            "reviews": [
+                {
+                    "id": "r-81-0",
+                    "user": "Sam R.",
+                    "rating": 5,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-02-27T20:56:27.329Z"
+                },
+                {
+                    "id": "r-81-1",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-04-15T20:56:27.329Z"
+                }
+            ]
+        },
+        {
+            "id": "82",
+            "slug": "urban-mini-backpack-82",
+            "title": "Urban Mini Backpack",
+            "brand": "KORA",
+            "description": "Urban Mini Backpack from Bags. Crafted with premium materials and a flattering, modern silhouette. Effortless to style — pair with your favorites for a complete look.",
+            "price": 67.59,
+            "images": [
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=800&q=70",
+                "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=800&q=70"
+            ],
+            "categorySlug": "bags",
+            "colors": [
+                "Olive",
+                "Sand",
+                "Pink"
+            ],
+            "sizes": [],
+            "rating": 4.5,
+            "reviewCount": 990,
+            "stock": 26,
+            "badges": [
+                "New"
+            ],
+            "tags": [
+                "bags",
+                "urban",
+                "mini backpack"
+            ],
+            "reviews": [
+                {
+                    "id": "r-82-0",
+                    "user": "Sam R.",
+                    "rating": 4,
+                    "title": "Cute but runs small",
+                    "body": "Love the style — sizing up worked great.",
+                    "date": "2026-02-27T20:56:27.329Z"
+                },
+                {
+                    "id": "r-82-1",
+                    "user": "Mia K.",
+                    "rating": 5,
+                    "title": "Obsessed!",
+                    "body": "Fits perfectly and the color is gorgeous. Already ordered another.",
+                    "date": "2026-03-20T20:56:27.329Z"
+                },
+                {
+                    "id": "r-82-2",
+                    "user": "Jordan P.",
+                    "rating": 4,
+                    "title": "Great quality",
+                    "body": "Surprised by the quality at this price. Shipping was fast too.",
+                    "date": "2026-04-10T20:56:27.329Z"
+                }
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "slug": "women",
+            "name": "Women",
+            "tagline": "New drops daily",
+            "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=600&q=70"
+        },
+        {
+            "slug": "men",
+            "name": "Men",
+            "tagline": "Sharp & street",
+            "image": "https://images.unsplash.com/photo-1490114538077-0a7f8cb49891?auto=format&fit=crop&w=600&q=70"
+        },
+        {
+            "slug": "kids",
+            "name": "Kids",
+            "tagline": "Cute & comfy",
+            "image": "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format&fit=crop&w=600&q=70"
+        },
+        {
+            "slug": "beauty",
+            "name": "Beauty",
+            "tagline": "Glow up",
+            "image": "https://images.unsplash.com/photo-1522335789203-aaa2e757fff8?auto=format&fit=crop&w=600&q=70"
+        },
+        {
+            "slug": "home",
+            "name": "Home",
+            "tagline": "Cozy vibes",
+            "image": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?auto=format&fit=crop&w=600&q=70"
+        },
+        {
+            "slug": "accessories",
+            "name": "Accessories",
+            "tagline": "Finishing touches",
+            "image": "https://images.unsplash.com/photo-1611923134239-b9be5816e23a?auto=format&fit=crop&w=600&q=70"
+        },
+        {
+            "slug": "shoes",
+            "name": "Shoes",
+            "tagline": "Step out",
+            "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=70"
+        },
+        {
+            "slug": "bags",
+            "name": "Bags",
+            "tagline": "Carry in style",
+            "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=600&q=70"
+        }
+    ]
+}
