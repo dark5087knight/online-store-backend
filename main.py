@@ -37,8 +37,7 @@ def verify_api_key(api_key: str = Security(api_key_header)):
     )
 
 
-app = FastAPI(title="ShopSphere AI Backend", lifespan=lifespan,
-              dependencies=[Depends(verify_api_key)])
+app = FastAPI(title="ShopSphere AI Backend", lifespan=lifespan)
 
 # Allow the frontend to access the API
 app.add_middleware(
@@ -49,14 +48,16 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-app.include_router(products.router)
-app.include_router(categories.router)
-app.include_router(orders.router)
-app.include_router(cart.router)
-app.include_router(wishlist.router)
-app.include_router(recent.router)
-app.include_router(banners.router)
-app.include_router(reviews.router)
+api_key_dependency = [Depends(verify_api_key)]
+
+app.include_router(products.router, dependencies=api_key_dependency)
+app.include_router(categories.router, dependencies=api_key_dependency)
+app.include_router(orders.router, dependencies=api_key_dependency)
+app.include_router(cart.router, dependencies=api_key_dependency)
+app.include_router(wishlist.router, dependencies=api_key_dependency)
+app.include_router(recent.router, dependencies=api_key_dependency)
+app.include_router(banners.router, dependencies=api_key_dependency)
+app.include_router(reviews.router, dependencies=api_key_dependency)
 
 
 @app.get("/")
